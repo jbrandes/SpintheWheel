@@ -13,7 +13,7 @@ def spin():
         print("You lost, try again next time.")
     if x == "white":
         print("You won big", (wager * 10, "dollars"))
-    if 
+    
     
 print("Would you like to spin the wheel?")
 answer = input()
